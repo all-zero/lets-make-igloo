@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":1,"characterName":"People4","classId":1,"equips":[0,0,0,3,0],"faceIndex":0,"faceName":"friends","traits":[],"initialLevel":1,"maxLevel":99,"name":"일호","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"People4","classId":1,"equips":[2,1,2,3,0],"faceIndex":1,"faceName":"friends","traits":[],"initialLevel":1,"maxLevel":99,"name":"이호","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":3,"characterName":"People1","classId":1,"equips":[3,0,2,3,4],"faceIndex":2,"faceName":"friends","traits":[],"initialLevel":1,"maxLevel":99,"name":"삼호","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"People1","classId":1,"equips":[4,0,2,3,4],"faceIndex":3,"faceName":"friends","traits":[],"initialLevel":1,"maxLevel":99,"name":"사호","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":1,"characterName":"People1","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"오호","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"Nature","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"누렁이","nickname":"","note":"","profile":"멍!! 멍!!!"},
+{"id":7,"battlerName":"","characterIndex":1,"characterName":"Nature","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"나비","nickname":"","note":"","profile":"야~~~옹"},
+{"id":8,"battlerName":"","characterIndex":7,"characterName":"People1","classId":4,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"People1","traits":[],"initialLevel":60,"maxLevel":99,"name":"할머니","nickname":"그랜마","note":"","profile":"아이구 내새끼~~ 많이 먹으렴"},
+{"id":9,"battlerName":"","characterIndex":4,"characterName":"People4","classId":5,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"문방구 아저씨","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":2,"characterName":"People2","classId":6,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"People2","traits":[],"initialLevel":1,"maxLevel":99,"name":"담임선생님","nickname":"","note":"","profile":""},
+{"id":11,"battlerName":"","characterIndex":5,"characterName":"People3","classId":7,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"People3","traits":[],"initialLevel":1,"maxLevel":99,"name":"기상캐스터","nickname":"","note":"","profile":""}
+]
